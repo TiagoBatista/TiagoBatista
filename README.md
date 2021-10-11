@@ -45,3 +45,10 @@
   <a href="https://www.instagram.com/tiagobatista94" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg" height="30" title="Instagram"></a>&emsp;&emsp;&emsp;
   <a href="https://www.twitter.com/tiagobatistadev" target="_blank"><img src="https://simpleicons.org/icons/twitter.svg" height="30" title="Twitter"></a>
 </p>
+	  
+</br>
+</br>
+
+<p align="left">
+	<img src="https://views.whatilearened.today/views/github/tiagobatista/views.svg">
+</p>
