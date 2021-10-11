@@ -17,48 +17,36 @@
 <h2 class="w3-sans-serif" align="center">Main Technologies in which I have experience</h2>
 
 <br/>
-<div style="display:table">
-<div style="display:column" align="center">
-	<ul>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-.NET Core-0D1117?style=flat-square&logo=DotNet&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-CSharp-0D1117?style=flat-square&logo=CSharp&logoColor=3498DB"></a></li>
-	</ul>
-</div>
-<div style="display:column" align="center">
-	<ul>
- 		<li> <a href="#"><img src="https://img.shields.io/badge/-Elastic Search-0D1117?style=flat-square&logo=elasticsearch&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-Cassandra-0D1117?style=flat-square&logo=apachecassandra&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-SQL Server-0D1117?style=flat-square&logo=microsoft-sql-server&logoColor=3498DB"></a></li>
-	</ul>
-</div>
-<div class="column" align="center">
-	<ul>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=3498DB"></a></li>
-	</ul>
-</div>
-<div align="center">
-	<ul>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=Redis&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=3498DB"></a></li>
-	</ul>
-</div>
-<div align="center">
-	<ul>
-  		<li><a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=3498DB"></a></li>
-  	</ul>
-</div>
-<div align="center">
-	<ul>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=3498DB"></a></li>
-  		<li><a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=3498DB"></a></li>
-	</ul>
-</div>
-	  </div>
-</div>
-
+<table style="border-collapse:collapse;border-bottom:1px solid #EEE;border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;">
+	<tr>
+		<td align="center">
+			<a href="#"><img src="https://img.shields.io/badge/-.NET Core-0D1117?style=flat-square&logo=DotNet&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/-CSharp-0D1117?style=flat-square&logo=CSharp&logoColor=3498DB"></a>
+		</td>
+		<td align="center">
+			<a href="#"><img src="https://img.shields.io/badge/-Elastic Search-0D1117?style=flat-square&logo=elasticsearch&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/-Cassandra-0D1117?style=flat-square&logo=apachecassandra&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/-SQL Server-0D1117?style=flat-square&logo=microsoft-sql-server&logoColor=3498DB"></a>
+		</td>
+		<td align="center">
+			<a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=3498DB"></a>
+		</td>
+		<td align="center">
+			<a href="#"><img src="https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=Redis&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/-Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=3498DB"></a>
+		</td>
+		<td align="center">
+			<a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=3498DB"></a>
+		</td>
+		<td align="center">
+			<a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=3498DB"></a>
+			<a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=3498DB"></a>
+		</td>
+	</tr>
+</table>
 <br/>
 
 <h2 class="w3-sans-serif" align="center">Social</h2>
