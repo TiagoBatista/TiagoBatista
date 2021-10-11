@@ -4,21 +4,21 @@
 
 <div>
   <div align="center">
-      <a href="#"><img alt="Tiago Batista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tiagobatista&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=000000" height="200" align="left"/>
+      <a href="#"><img alt="Tiago Batista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tiagobatista&show_icons=true&include_all_commits=true&count_private=true&theme=default&text_color=FFD700&&icon_color=FFD700&hide_border=true&bg_color=ffffff00&title_color=FFD700" height="200" align="left"/>
 	</a>
-      <a href="#"><img alt="Tiago Batista's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobatista&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" height="100" align="right"/>
+      <a href="#"><img alt="Tiago Batista's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobatista&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=FFD700&text_color=FFD700&icon_color=FFD700" height="100" align="right"/>
 	</a>
   </div>
   <div align="center">
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tiagobatista&custom_title=Tiago%20Batista's%20Contribution%20Graph&bg_color=ffffff00&text_color=000000&color=000000&line=000000&point=000000&hide_border=true" /></a>
+    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tiagobatista&custom_title=Tiago%20Batista's%20Contribution%20Graph&bg_color=ffffff00&text_color=FFD700&color=FFD700&line=FFD700&point=FFD700&hide_border=true" /></a>
   <div> 
 </div>
 
 <h2 class="w3-sans-serif" align="center">Main Technologies in which I have experience</h2>
 
 <br/>
-			<img src="https://simpleicons.org/icons/dotnet.svg" height="30">
-			<img src="https://simpleicons.org/icons/csharp.svg" height="30">
+			<img src="https://simpleicons.org/icons/dotnet.svg" height="30" title=".NET Core">
+			<img src="https://simpleicons.org/icons/csharp.svg" height="30" title="C#">
 &emsp;&emsp;&emsp;
 			<img src="https://simpleicons.org/icons/elasticsearch.svg" height="30" title="Elasticsearch">
 			<img src="https://simpleicons.org/icons/apachecassandra.svg" height="30" title="Cassandra">
