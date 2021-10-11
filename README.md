@@ -4,13 +4,13 @@
 
 <div>
   <div align="center">
-      <a href="#"><img alt="Tiago Batista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tiagobatista&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3498DB" height="200" align="left"/>
+      <a href="#"><img alt="Tiago Batista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tiagobatista&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=ffffff00&title_color=3498DB" height="200" align="left"/>
 	</a>
-      <a href="#"><img alt="Tiago Batista's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobatista&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3498DB&icon_color=3498DB" height="100" align="right"/>
+      <a href="#"><img alt="Tiago Batista's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobatista&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=ffffff00&title_color=3498DB&icon_color=3498DB" height="100" align="right"/>
 	</a>
   </div>
   <div align="center">
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tiagobatista&custom_title=Tiago%20Batista's%20Contribution%20Graph&bg_color=0D1117&color=3498DB&line=FFFFFF&point=3498DB&hide_border=true" /></a>
+    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tiagobatista&custom_title=Tiago%20Batista's%20Contribution%20Graph&bg_color=ffffff00&color=3498DB&line=FFFFFF&point=3498DB&hide_border=true" /></a>
   <div> 
 </div>
 
