@@ -49,6 +49,8 @@
 	  
 <h2 class="w3-sans-serif" align="center">My Certifications</h2>
 <img src="three-dots.svg" title="On the making">
+	  
+<br/>
 <br/>
 	  
 <h2 class="w3-sans-serif" align="center">Social</h2>
