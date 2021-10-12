@@ -7,6 +7,9 @@
 	</br>
 	<a href="https://www.farfetch.com" target="_blank"> <img src="https://simpleicons.org/icons/farfetch.svg" height="30" title="Farfetch"></a>
 </div>
+
+</br>
+
 <h2 class="w3-sans-serif" align="center">Github Stats</h2>
 
 <br/>
