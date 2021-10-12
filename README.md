@@ -1,3 +1,9 @@
+<h2 class="w3-sans-serif" align="center">About me</h2>
+<div align="center">
+			I'm Tiago, a self-motivated tech enthusiast and Software Engineer.
+			</br>
+			Currently working at &nbsp <a href="https://www.farfetch.com"> <img src="https://simpleicons.org/icons/farfetch.svg" height="15" title="Farfetch"></a>
+</div>
 <h2 class="w3-sans-serif" align="center">Github Stats</h2>
 
 <br/>
