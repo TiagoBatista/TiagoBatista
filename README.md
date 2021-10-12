@@ -61,7 +61,8 @@
   <a href="mailto:tiago.batista94@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" height="30" title="Gmail"></a>&emsp;&emsp;&emsp;
   <a href="https://www.linkedin.com/in/tiagobatista94" target="_blank"><img src="https://simpleicons.org/icons/linkedin.svg" height="30" title="LinkedIn"></a>&emsp;&emsp;&emsp;
   <a href="https://www.instagram.com/tiagobatista94" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg" height="30" title="Instagram"></a>&emsp;&emsp;&emsp;
-  <a href="https://www.twitter.com/tiagobatistadev" target="_blank"><img src="https://simpleicons.org/icons/twitter.svg" height="30" title="Twitter"></a>
+  <a href="https://www.twitter.com/tiagobatistadev" target="_blank"><img src="https://simpleicons.org/icons/twitter.svg" height="30" title="Twitter"></a>&emsp;&emsp;&emsp;
+  <a href="https://profile.codersrank.io/user/tiagobatista/" target="_blank"><img src="https://simpleicons.org/icons/codersrank.svg" height="30" title="Coders Rank"></a>
 </p>
 	  
 </br>
