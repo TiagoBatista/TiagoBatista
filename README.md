@@ -1,8 +1,11 @@
 <h2 class="w3-sans-serif" align="center">About me</h2>
 <div align="center">
-			I'm Tiago, a self-motivated tech enthusiast and Software Engineer.
-			</br>
-			Currently working at &nbsp <a href="https://www.farfetch.com" target="_blank"> <img src="https://simpleicons.org/icons/farfetch.svg" height="15" title="Farfetch"></a>
+	I'm Tiago, a self-motivated tech enthusiast and Software Engineer.
+	</br>
+	Currently working at
+	</br>
+	</br>
+	<a href="https://www.farfetch.com" target="_blank"> <img src="https://simpleicons.org/icons/farfetch.svg" height="30" title="Farfetch"></a>
 </div>
 <h2 class="w3-sans-serif" align="center">Github Stats</h2>
 
@@ -43,7 +46,11 @@
 			<img src="https://simpleicons.org/icons/git.svg" height="30" title="Git">
 			<img src="https://simpleicons.org/icons/github.svg" height="30" title="Github">
 <br/>
+	  
+<h2 class="w3-sans-serif" align="center">My Certifications</h2>
 
+<br/>
+	  
 <h2 class="w3-sans-serif" align="center">Social</h2>
 <p align="center">   
   <a href="mailto:tiago.batista94@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" height="30" title="Gmail"></a>&emsp;&emsp;&emsp;
