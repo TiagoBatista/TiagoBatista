@@ -24,7 +24,7 @@
 	</a>
   </div>
   <div align="center">
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tiagobatista&custom_title=Tiago%20Batista's%20Contribution%20Graph&bg_color=ffffff00&text_color=FFD700&color=000000&line=000000&point=000000&hide_border=true" /></a>
+    <a href="#"><img alt="Tiago's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tiagobatista&custom_title=Tiago%20Batista's%20Contribution%20Graph&bg_color=ffffff00&text_color=FFD700&color=000000&line=000000&point=000000&hide_border=true" /></a>
   <div> 
 </div>
 
