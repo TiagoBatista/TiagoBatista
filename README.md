@@ -2,10 +2,6 @@
 <div align="center">
 	I'm Tiago, a self-motivated tech enthusiast and Software Engineer.
 	</br>
-	Currently working at
-	</br>
-	</br>
-	<a href="https://www.farfetch.com" target="_blank"> <img src="https://simpleicons.org/icons/farfetch.svg" height="30" title="Farfetch"></a>
 </div>
 
 </br>
