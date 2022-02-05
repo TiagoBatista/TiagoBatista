@@ -49,7 +49,7 @@
 <br/>
 	  
 <h2 class="w3-sans-serif" align="center">My Certifications</h2>
-<img src="MTA-Software-Development-Fundamentals-C#.png" title="MTA Software Development Fundamentals C#">
+<img src="MTA%20Software%20Development%20Fundamentals%20C%23.png" title="MTA Software Development Fundamentals C#">
 	  
 <br/>
 <br/>
