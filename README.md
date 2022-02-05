@@ -49,8 +49,9 @@
 <br/>
 	  
 <h2 class="w3-sans-serif" align="center">My Certifications</h2>
-<img src="MTA%20Software%20Development%20Fundamentals%20C%23.png" title="MTA Software Development Fundamentals C#">
-	  
+	<a href="https://www.credly.com/earner/earned/badge/d7c0a434-978e-48a1-9594-3924e90a0cfb">
+		<img src="MTA%20Software%20Development%20Fundamentals%20C%23.png" width="100" height="100" title="MTA Software Development Fundamentals C#">
+	</a>
 <br/>
 <br/>
 	  
