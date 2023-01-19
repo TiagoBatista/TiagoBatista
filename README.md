@@ -6,16 +6,10 @@
 
 </br>
 
-<div>
-	<div style="display: inline_block">
-      <a href="#"><img alt="Tiago Batista's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobatista&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=ffffff00&title_color=000000&text_color=000000&icon_color=000000" height="180" width="350" align="right"/>
-	</a>
-  </div>
-</div>
-
 <h2 class="w3-sans-serif" align="center">Main Technologies in which I have experience</h2>
 
 <br/>
+<div align="center">
 			<img src="https://simpleicons.org/icons/dotnet.svg" height="30" title=".NET Core">
 			<img src="https://simpleicons.org/icons/csharp.svg" height="30" title="C#">
 &emsp;&emsp;&emsp;
@@ -35,12 +29,15 @@
 &emsp;&emsp;&emsp;
 			<img src="https://simpleicons.org/icons/git.svg" height="30" title="Git">
 			<img src="https://simpleicons.org/icons/github.svg" height="30" title="Github">
+	</div>
 <br/>
 	  
 <h2 class="w3-sans-serif" align="center">My Certifications</h2>
+<div align="center">
 	<a href="https://www.credly.com/earner/earned/badge/d7c0a434-978e-48a1-9594-3924e90a0cfb">
 		<img src="MTA%20Software%20Development%20Fundamentals%20C%23.png" width="100" height="100" title="MTA Software Development Fundamentals C#">
 	</a>
+	</div>
 <br/>
 <br/>
 	  
