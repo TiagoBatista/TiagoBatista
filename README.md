@@ -6,18 +6,11 @@
 
 </br>
 
-<h2 class="w3-sans-serif" align="center">Github Stats</h2>
-
-<br/>
-
 <div>
 	<div style="display: inline_block">
       <a href="#"><img alt="Tiago Batista's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobatista&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=ffffff00&title_color=000000&text_color=000000&icon_color=000000" height="180" width="350" align="right"/>
 	</a>
   </div>
-  <div align="center">
-    <a href="#"><img alt="Tiago's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tiagobatista&custom_title=Tiago%20Batista's%20Contribution%20Graph&bg_color=ffffff00&text_color=FFD700&color=000000&line=000000&point=000000&hide_border=true" /></a>
-  <div> 
 </div>
 
 <h2 class="w3-sans-serif" align="center">Main Technologies in which I have experience</h2>
