@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm **Tiago Batista**, a passionate developer and tech enthusiast. I enjoy exploring new technologies and using them to solve real-world problems. My main focus is on full-stack development, but I also have experience in various other domains such as data science, machine learning, and DevOps.
+I'm **Tiago Batista**, a passionate developer and tech enthusiast. I enjoy exploring new technologies and using them to solve real-world problems. My main focus is on backend development with .NET.
 
 - 🌱 **Currently learning**: .NET 8
 - 💬 **Ask me about**: .NET, C# and Elasticsearch
