@@ -1,6 +1,10 @@
 <h2 class="w3-sans-serif" align="center">About me</h2>
 <div align="center">
-	I'm Tiago, a self-motivated tech enthusiast and Software Engineer.
+	I'm Tiago, a self-motivated tech enthusiast and Software Engineer. I have a degree in Software Engineering completed in ISEP (Instituto Superior de Engenharia do Porto).
+I am a person with a lot of team spirit and easily create a good environment.
+I am creative, I am never satisfied with the knowledge I have and I am always curious to learn more. I never give less than my best work and I am always ready for new challenges.
+I hope to grow as much as possible both personally and professionally.
+I have the ambition to always as better as I can.
 	</br>
 </div>
 	  
