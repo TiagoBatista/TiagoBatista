@@ -3,8 +3,7 @@
 I'm **Tiago Batista**, a passionate developer and tech enthusiast. I enjoy exploring new technologies and using them to solve real-world problems. My main focus is on backend development with .NET.
 
 🌱 **Currently learning**: .NET 8  
-💬 **Ask me about**: .NET, C# and Elasticsearch  
-📫 **How to reach me**: [etiagobatista@gmail.com](mailto:etiagobatista@gmail.com)  
+💬 **Ask me about**: .NET, C# and Elasticsearch   
 ⚡ **Fun fact**: I love futsal and gym!
 
 ## Tech Stack
