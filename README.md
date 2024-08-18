@@ -53,18 +53,6 @@ A program that simulates a grocery basket with associated unit tests that can pr
 
 ## Connect with Me
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/tiagobatista94" target="_blank" title="LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 50%; background-color: #0A66C2; "/>
-</a>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
-
-<!-- Instagram -->
-<a href="https://instagram.com/tiagobatista94" target="_blank" title="Instagram">
-  <img src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="Instagram" style="width: 30px; height: 40px; border-radius: 50%; background-color: #E4405F; "/>
-</a>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
-
 <!-- Email -->
 <a href="mailto:etiagobatista@gmail.com" target="_blank" title="Email">
   <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email" style="width: 30px; height: 40px; border-radius: 50%; background-color: #D14836; "/>
