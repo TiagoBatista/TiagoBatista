@@ -1,33 +1,68 @@
-# Hi there! 👋 I'm Tiago Batista
-
-![Profile Views](https://komarev.com/ghpvc/?username=tiagobatista&color=blueviolet&style=for-the-badge)
-![Repos Badge](https://img.shields.io/badge/Repositories-Number_of_Repos-blue?style=for-the-badge)
-![Commits Badge](https://img.shields.io/badge/Commits-Number_of_Commits-orange?style=for-the-badge)
-![Stars Badge](https://img.shields.io/badge/Stars-Number_of_Stars-yellow?style=for-the-badge)
-
 ## About Me
 
 I'm **Tiago Batista**, a passionate developer and tech enthusiast. I enjoy exploring new technologies and using them to solve real-world problems. My main focus is on backend development with .NET.
 
-- 🌱 **Currently learning**: .NET 8
-- 💬 **Ask me about**: .NET, C# and Elasticsearch
-- 📫 **How to reach me**: [etiagobatista@gmail.com](mailto:etiagobatista@gmail.com)
-- ⚡ **Fun fact**: I love futsal and gym!
+🌱 **Currently learning**: .NET 8  
+💬 **Ask me about**: .NET, C# and Elasticsearch  
+📫 **How to reach me**: [etiagobatista@gmail.com](mailto:etiagobatista@gmail.com)  
+⚡ **Fun fact**: I love futsal and gym!
 
 ## Tech Stack
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+<!-- C# -->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px; height: 40px; border-radius: 50%; background-color: #239120; padding: 10px;"/>
+</a>
+
+<!-- .NET -->
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" style="width: 40px; height: 40px; border-radius: 50%; background-color: #512BD4; padding: 10px;"/>
+</a>
+
+<!-- Elasticsearch -->
+<a href="https://www.elastic.co/elasticsearch/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" style="width: 40px; height: 40px; border-radius: 50%; background-color: #005571; padding: 10px;"/>
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 40px; height: 40px; border-radius: 50%; background-color: #47A248; padding: 10px;"/>
+</a>
+
+<!-- Redis -->
+<a href="https://redis.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" style="width: 40px; height: 40px; border-radius: 50%; background-color: #DC382D; padding: 10px;"/>
+</a>
+
+<!-- Kafka -->
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" style="width: 40px; height: 40px; border-radius: 50%; background-color: #231F20; padding: 10px;"/>
+</a>
+
+<!-- RabbitMQ -->
+<a href="https://www.rabbitmq.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" style="width: 40px; height: 40px; border-radius: 50%; background-color: #FF6600; padding: 10px;"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="width: 40px; height: 40px; border-radius: 50%; background-color: #2496ED; padding: 10px;"/>
+</a>
+
+<!-- Kubernetes -->
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" style="width: 40px; height: 40px; border-radius: 50%; background-color: #326CE5; padding: 10px;"/>
+</a>
+
+<!-- SQL Server -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" style="width: 40px; height: 40px; border-radius: 50%; background-color: #CC2927; padding: 10px;"/>
+</a>
+
+<!-- Entity Framework -->
+<a href="https://docs.microsoft.com/en-us/ef/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/58300181/118834163-ec6da000-b8b9-11eb-98dc-5e604c11e79f.png" alt="Entity Framework" style="width: 40px; height: 40px; border-radius: 50%; background-color: #512BD4; padding: 10px;"/>
+</a>
 
 ## GitHub Stats
 
