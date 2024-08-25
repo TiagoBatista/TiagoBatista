@@ -61,4 +61,5 @@ A program that simulates a grocery basket with associated unit tests that can pr
 ## Latest Updates
 
 - **New Side Hustle!**: Just initiated my adventure in freelancing! Check out my profile on [Upwork](https://www.upwork.com/freelancers/~01a05819be3510cc63).
+- Checkout my latest youtube video for [Coderversity](https://www.youtube.com/@coderversity)! - https://www.youtube.com/watch?v=aIYh3lu1pZs - Build a Grocery Basket Simulator with .NET 8 and SQL Server
 - **New projects**: Starting new projects from [SubStack Coding Challenges](https://codingchallenges.substack.com/archive?sort=new)!
